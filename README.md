@@ -313,7 +313,7 @@ The high standard deviation of V_out (σ = 2.574 V) reflects the bimodal nature 
 
 ### Figure 1: V_out vs V_in (Line Regulation)
 
-![V_out vs V_in](.plots/vout_vs_vin.png)
+![V_out vs V_in](./plots/vout_vs_vin.png)
 
 *The plot shows two distinct regions: (1) a linear pre-breakdown region where V_out rises with V_in, and (2) a flat regulation region at V_out ≈ 7.1 V for V_in ≥ 9 V, confirming Zener clamping behavior. The orange dashed best-fit line spans the full range and is shown for reference only.*
 
@@ -321,7 +321,7 @@ The high standard deviation of V_out (σ = 2.574 V) reflects the bimodal nature 
 
 ### Figure 2: V_out vs Load Resistance (Load Regulation)
 
-![V_out vs Load Resistance](.plots/vout_vs_load_resistance.png)
+![V_out vs Load Resistance](./plots/vout_vs_load_resistance.png)
 
 *V_out rises steeply from near 0 at very low R_L, then saturates at ~7.4 V for R_L ≥ 3 Ω. The log-scale x-axis reveals that the transition occurs over roughly one decade of resistance (1–10 Ω). The orange dashed exponential fit captures the rising trend; the dotted blue line marks the mean V_out = 5.79 V.*
 
